@@ -1,0 +1,8 @@
+Binary
+Number system composed of 2 values
+Run-length Encoding (RLE)
+Grouping of different repeating patterns based on frequency
+Pixel
+Single unit of color and the smallest unit of an image
+Sample Rate
+Rate at which samples are taken from in an audio file
